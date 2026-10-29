@@ -22,4 +22,4 @@ An end-to-end retail analytics and business intelligence solution constructed in
 ## 📂 Project Contents in this Repository
 1. **`Store Performance Report.xlsm`**: The complete interactive Excel workbook containing raw data, data models, lookup tables, and the dynamic dashboard.
 2. **`Store_Performance_Dashboard.pdf`**: High-resolution PDF export of the final executive dashboard.
-3. **`Superstore_Walkthrough.mp4`**: A recorded screen walkthrough demonstrating the dashboard functionality and workflow.
+3. **`Dashboard_Demo.mp4`**: A recorded screen walkthrough demonstrating the dashboard functionality and workflow.
