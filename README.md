@@ -23,3 +23,6 @@ An end-to-end retail analytics and business intelligence solution constructed in
 1. **`Store Performance Report.xlsm`**: The complete interactive Excel workbook containing raw data, data models, lookup tables, and the dynamic dashboard.
 2. **`Store_Performance_Dashboard.pdf`**: High-resolution PDF export of the final executive dashboard.
 3. **`Dashboard_Demo.mp4`**: A recorded screen walkthrough demonstrating the dashboard functionality and workflow.
+
+## 🎥 Project Walkthrough Video
+[Watch the Project Walkthrough Video](https://drive.google.com/open?id=1HScndB4eWfpeMyvW9JdJz9SQFV-dmUwq&usp=drive_fs)
