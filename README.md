@@ -5,7 +5,6 @@ An end-to-end retail analytics and business intelligence solution constructed in
 
 ## 📊 Dashboard Preview
 ![Dashboard Preview](Store Performance Dashboard.jpg)
-
 ## 🛠️ Tools & Technologies Used
 * **Advanced Excel:** Data Modeling, Pivot Tables, Slicers, Timeline Filters, and Advanced Formulas (VLOOKUP, INDEX/MATCH).
 * **Business Intelligence & Visualization:** Interactive Dashboard featuring 12 customized charts and KPI cards, enhanced with in-cell Sparklines for micro-analytics.
